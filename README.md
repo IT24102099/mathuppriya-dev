@@ -57,6 +57,17 @@ A web-based system to help students choose degree programs based on their Z-scor
 🟡 *Currently in development*
 
 ---
+###🎓 Smart University Mobile Application
+
+A full-stack mobile application designed to simplify and digitize university life for both students and lecturers. This app provides a centralized platform to manage academic activities, improve communication, and access essential resources in real time.
+بسهولة
+🔔 Real-Time Announcements – Instant updates from lecturers and administration
+🔐 Secure Authentication – Role-based login system for students and lecturers
+📱 User-Friendly UI – Clean and intuitive mobile interface
+
+The application is built to enhance productivity, reduce manual processes, and create a more connected academic environment. By integrating essential university functions into a single platform, it ensures users stay organized, informed, and engaged—anytime, anywhere.
+
+---
 
 ### 🍔 Campus Food API
 Backend system for managing food orders and student data.
