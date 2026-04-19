@@ -57,7 +57,7 @@ A web-based system to help students choose degree programs based on their Z-scor
 🟡 *Currently in development*
 
 ---
-###🎓 Smart University Mobile Application
+### 🎓 Smart University Mobile Application
 
 A full-stack mobile application designed to simplify and digitize university life for both students and lecturers. This app provides a centralized platform to manage academic activities, improve communication, and access essential resources in real time.
 بسهولة
